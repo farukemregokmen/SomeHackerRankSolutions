@@ -1,0 +1,1 @@
+In solution files, you cannot find original main function. That's because i take test inputs and try them in my code. However, the function giving by site is original one. You can use the function as solution. 
